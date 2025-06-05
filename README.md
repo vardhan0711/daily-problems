@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vardhan0711/daily-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
