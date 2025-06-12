@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vardhan0711/daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
 |  |
 | ------- |
