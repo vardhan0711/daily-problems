@@ -1,18 +1,25 @@
 class Solution {
-	public:
-		int f(int i,int count,vector<int>& v,vector<vector<int>>& dp){
-			if(i==v.size()) return 0;
-			if(dp[i][count]!=-1) return dp[i][count];
-			int take=count*v[i]+f(i+1,count+1,v,dp);
-			int not_take=f(i+1,count,v,dp);
-			return dp[i][count]=max(take,not_take);
-		}
-
-		int maxSatisfaction(vector<int>& v) {
-			int n=v.size();
-			sort(v.begin(),v.end());
-			vector<vector<int>> dp(n,vector<int>(n+1,-1));
-			return f(0,1,v,dp);
-		}
-	};
-	
+public:
+    int maxSatisfaction(vector<int>& v) {
+        int n = v.size();
+        sort(v.begin(), v.end());
+        int idx = 0;
+        int prefixSum = v[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            prefixSum += v[i];
+            if (prefixSum < 0) {
+                idx = i + 1;
+                break;
+            }
+        }
+        if (idx == n - 1)
+            return 0;
+        int ans = 0;
+        int count = 1;
+        for (int i = idx; i < n; i++) {
+            ans += count * v[i];
+            count++;
+        }
+        return ans;
+    }
+};
