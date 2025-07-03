@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/vardhan0711/daily-problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Union Find
 |  |
 | ------- |
