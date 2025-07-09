@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vardhan0711/daily-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vardhan0711/daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Matrix
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vardhan0711/daily-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
