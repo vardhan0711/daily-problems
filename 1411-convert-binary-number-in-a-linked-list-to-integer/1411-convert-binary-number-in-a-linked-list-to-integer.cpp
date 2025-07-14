@@ -9,16 +9,19 @@
  * };
  */
 class Solution {
+
+    //not using a string , rather just adding the values in the decimal format 
 public:
     int getDecimalValue(ListNode* head) {
         if(head==NULL)return 0;
         if(head->next==NULL)return head->val;
-        string st ="";
+        int res=0;
         ListNode* current=head;
         while(current != nullptr){ // Iterate through the entire linked list
-            st += std::to_string(current->val); // Convert int to string and append
+            res=(res*2)+current->val;
             current = current->next;
         }
-        return std::stoi(st, nullptr, 2); 
+        return res;
+         
     }
 };
