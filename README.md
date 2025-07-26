@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vardhan0711/daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Matrix
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -163,8 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vardhan0711/daily-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Function
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
