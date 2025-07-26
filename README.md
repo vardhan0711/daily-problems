@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vardhan0711/daily-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vardhan0711/daily-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
