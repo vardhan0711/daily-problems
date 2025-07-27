@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
