@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vardhan0711/daily-problems/tree/master/0101-symmetric-tree) |
+| [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vardhan0711/daily-problems/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
