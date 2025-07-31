@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vardhan0711/daily-problems/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
+| [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vardhan0711/daily-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
+| [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vardhan0711/daily-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
+| [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
