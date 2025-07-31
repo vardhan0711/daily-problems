@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vardhan0711/daily-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/vardhan0711/daily-problems/tree/master/0386-lexicographical-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
+| [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vardhan0711/daily-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 ## Array
 |  |
 | ------- |
