@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/vardhan0711/daily-problems/tree/master/0386-lexicographical-numbers) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
