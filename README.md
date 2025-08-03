@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vardhan0711/daily-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vardhan0711/daily-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vardhan0711/daily-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vardhan0711/daily-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
 |  |
