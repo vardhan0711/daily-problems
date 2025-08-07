@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vardhan0711/daily-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vardhan0711/daily-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
