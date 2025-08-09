@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/vardhan0711/daily-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vardhan0711/daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/vardhan0711/daily-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vardhan0711/daily-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
