@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vardhan0711/daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vardhan0711/daily-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vardhan0711/daily-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
