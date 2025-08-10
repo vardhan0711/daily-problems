@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vardhan0711/daily-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
