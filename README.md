@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vardhan0711/daily-problems/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/vardhan0711/daily-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vardhan0711/daily-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vardhan0711/daily-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/vardhan0711/daily-problems/tree/master/2478-longest-nice-subarray) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vardhan0711/daily-problems/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vardhan0711/daily-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vardhan0711/daily-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
