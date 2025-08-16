@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/vardhan0711/daily-problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vardhan0711/daily-problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/vardhan0711/daily-problems/tree/master/0443-string-compression) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vardhan0711/daily-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
