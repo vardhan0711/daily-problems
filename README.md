@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+| [0679-24-game](https://github.com/vardhan0711/daily-problems/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vardhan0711/daily-problems/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/vardhan0711/daily-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0679-24-game](https://github.com/vardhan0711/daily-problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vardhan0711/daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
+| [0679-24-game](https://github.com/vardhan0711/daily-problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vardhan0711/daily-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
