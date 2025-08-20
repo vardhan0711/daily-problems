@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vardhan0711/daily-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vardhan0711/daily-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vardhan0711/daily-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
