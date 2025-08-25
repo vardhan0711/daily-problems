@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vardhan0711/daily-problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vardhan0711/daily-problems/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/vardhan0711/daily-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vardhan0711/daily-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
