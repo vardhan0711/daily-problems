@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vardhan0711/daily-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
