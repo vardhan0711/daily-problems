@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vardhan0711/daily-problems/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/vardhan0711/daily-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vardhan0711/daily-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhan0711/daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/vardhan0711/daily-problems/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
