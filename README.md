@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/vardhan0711/daily-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/vardhan0711/daily-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0290-word-pattern) |
+| [0402-remove-k-digits](https://github.com/vardhan0711/daily-problems/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vardhan0711/daily-problems/tree/master/0443-string-compression) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vardhan0711/daily-problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/vardhan0711/daily-problems/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/vardhan0711/daily-problems/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vardhan0711/daily-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vardhan0711/daily-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
@@ -418,5 +421,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/vardhan0711/daily-problems/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vardhan0711/daily-problems/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
