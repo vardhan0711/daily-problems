@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vardhan0711/daily-problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/vardhan0711/daily-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vardhan0711/daily-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vardhan0711/daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vardhan0711/daily-problems/tree/master/0078-subsets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhan0711/daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vardhan0711/daily-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vardhan0711/daily-problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vardhan0711/daily-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vardhan0711/daily-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vardhan0711/daily-problems/tree/master/0229-majority-element-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhan0711/daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vardhan0711/daily-problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/vardhan0711/daily-problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
