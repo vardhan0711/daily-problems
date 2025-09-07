@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vardhan0711/daily-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vardhan0711/daily-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vardhan0711/daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vardhan0711/daily-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/vardhan0711/daily-problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhan0711/daily-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
