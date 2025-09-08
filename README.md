@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vardhan0711/daily-problems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/vardhan0711/daily-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vardhan0711/daily-problems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/vardhan0711/daily-problems/tree/master/0326-power-of-three) |
