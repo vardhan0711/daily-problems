@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/vardhan0711/daily-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vardhan0711/daily-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhan0711/daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/vardhan0711/daily-problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhan0711/daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vardhan0711/daily-problems/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/vardhan0711/daily-problems/tree/master/1813-maximum-erasure-value) |
@@ -453,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0456-132-pattern) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
