@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/vardhan0711/daily-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Counting
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
