@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vardhan0711/daily-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhan0711/daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/vardhan0711/daily-problems/tree/master/0386-lexicographical-numbers) |
+| [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/vardhan0711/daily-problems/tree/master/0433-minimum-genetic-mutation) |
+| [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
 | [1254-deepest-leaves-sum](https://github.com/vardhan0711/daily-problems/tree/master/1254-deepest-leaves-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vardhan0711/daily-problems/tree/master/0518-coin-change-ii) |
 | [0679-24-game](https://github.com/vardhan0711/daily-problems/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vardhan0711/daily-problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vardhan0711/daily-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vardhan0711/daily-problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhan0711/daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/vardhan0711/daily-problems/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vardhan0711/daily-problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vardhan0711/daily-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vardhan0711/daily-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vardhan0711/daily-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
