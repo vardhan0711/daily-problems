@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/vardhan0711/daily-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vardhan0711/daily-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vardhan0711/daily-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
+| [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0456-132-pattern) |
+| [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
