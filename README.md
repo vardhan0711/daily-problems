@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vardhan0711/daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Matrix
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vardhan0711/daily-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhan0711/daily-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vardhan0711/daily-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/vardhan0711/daily-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vardhan0711/daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Counting
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
 | [3678-design-task-manager](https://github.com/vardhan0711/daily-problems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
