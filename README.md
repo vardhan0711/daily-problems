@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vardhan0711/daily-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/vardhan0711/daily-problems/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vardhan0711/daily-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vardhan0711/daily-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/vardhan0711/daily-problems/tree/master/3830-find-closest-person) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vardhan0711/daily-problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/vardhan0711/daily-problems/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/vardhan0711/daily-problems/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vardhan0711/daily-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/vardhan0711/daily-problems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vardhan0711/daily-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Combinatorics
 |  |
