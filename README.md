@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/vardhan0711/daily-problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vardhan0711/daily-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/vardhan0711/daily-problems/tree/master/0131-palindrome-partitioning) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhan0711/daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vardhan0711/daily-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vardhan0711/daily-problems/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/vardhan0711/daily-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vardhan0711/daily-problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/vardhan0711/daily-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vardhan0711/daily-problems/tree/master/0127-word-ladder) |
