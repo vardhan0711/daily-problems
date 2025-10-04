@@ -1,25 +1,23 @@
-//similar to LIS 
-//TC=O(n^2) && SC=O(n^2){for 2D dp array}
+//much better solution than DP 
+//uses comparator function to sort in less time and no space required
+//TC=O(nlogn) && SC=O(1)
 
 class Solution {
 public:
-    int dfs(vector<vector<int>>& pairs,int i,int p,vector<vector<int>>&mem){
-        int n=pairs.size();
-        if(i>=n)return 0;
-        int take=0;
-        int p_ind=p+1;
-        if(mem[i][p_ind]!=-1)return mem[i][p_ind];
-        if(p==-1||pairs[p][1]<pairs[i][0]){
-            take=1+dfs(pairs,i+1,i,mem);
-        }
-        int skip=dfs(pairs,i+1,p,mem);
-        return mem[i][p_ind]= max(take,skip);
-
+ static bool compare(vector<int>&v1,vector<int>&v2){
+        return v1[1]<v2[1];
+        
     }
     int findLongestChain(vector<vector<int>>& pairs) {
-        int n=pairs.size();
-        sort(pairs.begin(),pairs.end());
-        vector<vector<int>>mem(n+1,vector<int>(n+1,-1));
-        return dfs(pairs,0,-1,mem);
+         sort(pairs.begin(),pairs.end(),compare);
+        int prev=0;
+        int res=1;
+        for(int i=1;i<pairs.size();i++){
+            if(pairs[prev][1]<pairs[i][0]){
+                prev=i;
+                res++;
+            }
+        }
+        return res;
     }
 };
