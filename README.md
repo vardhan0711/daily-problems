@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/vardhan0711/daily-problems/tree/master/0456-132-pattern) |
 | [0518-coin-change-ii](https://github.com/vardhan0711/daily-problems/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vardhan0711/daily-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/vardhan0711/daily-problems/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/vardhan0711/daily-problems/tree/master/0695-max-area-of-island) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/vardhan0711/daily-problems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vardhan0711/daily-problems/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/vardhan0711/daily-problems/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vardhan0711/daily-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/vardhan0711/daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/vardhan0711/daily-problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/vardhan0711/daily-problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vardhan0711/daily-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/vardhan0711/daily-problems/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vardhan0711/daily-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhan0711/daily-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vardhan0711/daily-problems/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vardhan0711/daily-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/vardhan0711/daily-problems/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/vardhan0711/daily-problems/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vardhan0711/daily-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
