@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vardhan0711/daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vardhan0711/daily-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vardhan0711/daily-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/vardhan0711/daily-problems/tree/master/3797-design-spreadsheet) |
 | [3885-count-special-triplets](https://github.com/vardhan0711/daily-problems/tree/master/3885-count-special-triplets) |
 ## Matrix
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/vardhan0711/daily-problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vardhan0711/daily-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vardhan0711/daily-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vardhan0711/daily-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
