@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vardhan0711/daily-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vardhan0711/daily-problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/vardhan0711/daily-problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/vardhan0711/daily-problems/tree/master/0295-find-median-from-data-stream) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vardhan0711/daily-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vardhan0711/daily-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan0711/daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/vardhan0711/daily-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vardhan0711/daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan0711/daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/vardhan0711/daily-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vardhan0711/daily-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhan0711/daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vardhan0711/daily-problems/tree/master/0347-top-k-frequent-elements) |
@@ -559,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vardhan0711/daily-problems/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vardhan0711/daily-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
