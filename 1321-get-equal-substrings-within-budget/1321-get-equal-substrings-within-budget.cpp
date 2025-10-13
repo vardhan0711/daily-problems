@@ -1,15 +1,24 @@
 class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
-        int l=0,cost=0,result=0;
-        for(int r=0;r<s.length();r++){
-            cost+=abs(s[r]-t[r]);
-            while(cost>maxCost){
-                cost-=abs(s[l]-t[l]);
-                l++;
+        int n = s.length();
+        
+        int maxLen = 0;
+        int currCost = 0;
+        
+        int i = 0, j = 0;
+        while(j < n) {
+            currCost += abs(s[j] - t[j]);//calculate the current cost to convert the window
+            
+            while (currCost > maxCost) {
+                currCost -= abs(s[i] - t[i]);
+                i++;//shrink window
             }
-            result=max(result,r-l+1);
+            
+            maxLen = max(maxLen, j - i + 1);//maximum window size
+            j++;//expand the window size
         }
-        return result;
+        
+        return maxLen;
     }
 };
