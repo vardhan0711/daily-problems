@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vardhan0711/daily-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhan0711/daily-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhan0711/daily-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vardhan0711/daily-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vardhan0711/daily-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vardhan0711/daily-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vardhan0711/daily-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/vardhan0711/daily-problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vardhan0711/daily-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vardhan0711/daily-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vardhan0711/daily-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vardhan0711/daily-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/vardhan0711/daily-problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vardhan0711/daily-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2915-count-of-interesting-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vardhan0711/daily-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vardhan0711/daily-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vardhan0711/daily-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
