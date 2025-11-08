@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/vardhan0711/daily-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1503-reducing-dishes](https://github.com/vardhan0711/daily-problems/tree/master/1503-reducing-dishes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vardhan0711/daily-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vardhan0711/daily-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vardhan0711/daily-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vardhan0711/daily-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vardhan0711/daily-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vardhan0711/daily-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vardhan0711/daily-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vardhan0711/daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vardhan0711/daily-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vardhan0711/daily-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/vardhan0711/daily-problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vardhan0711/daily-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/vardhan0711/daily-problems/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vardhan0711/daily-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Quickselect
 |  |
 | ------- |
